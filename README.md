@@ -1,3 +1,0 @@
-# hello-world
-Hello World Project-GitHub!
-... a bit about yourself! :heart: :angel: ...
